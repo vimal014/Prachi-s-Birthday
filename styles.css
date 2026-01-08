@@ -393,7 +393,7 @@ body {
 }
 
 .message-signature {
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Poppins', sans-serif;
     font-size: 1.3rem;
     font-weight: 600;
     margin-top: 30px;
@@ -514,3 +514,4 @@ body {
     }
 
 }
+
