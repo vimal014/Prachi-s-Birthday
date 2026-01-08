@@ -397,7 +397,7 @@ body {
     font-size: 1.3rem;
     font-weight: 600;
     margin-top: 30px;
-    color: #ffeb3b;
+    color: #FE251B;
 }
 
 .message-hearts {
@@ -512,4 +512,5 @@ body {
     .section-title {
         margin-bottom: 40px;
     }
+
 }
